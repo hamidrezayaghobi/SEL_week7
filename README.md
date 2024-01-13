@@ -15,5 +15,15 @@
 ![image](https://github.com/hamidrezayaghobi/SEL_week7/assets/59170724/780cba81-9f4d-4bd0-8e43-e06ab53e1931)
 
 ## بخش دوم - ‫‪CodeCoverage
+بخش بخش کدهارو اوکی می کنیم.
+ابتدا یک نیم نگاهی به کلیت نتایج تست می اندازیم:
+![image](https://github.com/hamidrezayaghobi/SEL_week7/assets/59170724/7debb42e-a4fc-458c-a75e-caa482327a75)
+حال به ترتیب شروع می کنیم:
+### FoodPassenger
+برای متود گتر و ستر این کلاس تست می نویسم و پس از ران کردن تست مشاهده میکنم که کاورج آن ۱۰۰ شده است.
+![image](https://github.com/hamidrezayaghobi/SEL_week7/assets/59170724/f92c6ac2-71c5-434b-9365-236bf05841fa)
+![image](https://github.com/hamidrezayaghobi/SEL_week7/assets/59170724/03e0e54e-a1ae-4dd9-8aed-ba14e2b5d8a4)
+
+
 
 
