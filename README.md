@@ -24,6 +24,19 @@
 ![image](https://github.com/hamidrezayaghobi/SEL_week7/assets/59170724/f92c6ac2-71c5-434b-9365-236bf05841fa)
 ![image](https://github.com/hamidrezayaghobi/SEL_week7/assets/59170724/03e0e54e-a1ae-4dd9-8aed-ba14e2b5d8a4)
 
+### Person
+بعد از بررسی، متوجه می شویم که تنها کافیست برای Age در این کلاس گتر ستر را تست کنیم و سپس مشاهده میکنم که درصد کاورج آن ۱۰۰ شده است.
+![image](https://github.com/hamidrezayaghobi/SEL_week7/assets/59170724/435a9044-f071-48b4-9e27-fcaeeddde3c7)
+![image](https://github.com/hamidrezayaghobi/SEL_week7/assets/59170724/c15bb220-4826-4332-871a-f34b474bf0e1)
 
+### Traffic
+طبق بخش های قبلی هم کافیست برای متدهای گتر ستر تست بنویسیم.
 
+![Screenshot from 2024-01-13 18-52-34](https://github.com/hamidrezayaghobi/SEL_week7/assets/59170724/77801f3e-cbc9-4f79-8ac2-5c86a3295e87)
+![Screenshot from 2024-01-13 18-52-45](https://github.com/hamidrezayaghobi/SEL_week7/assets/59170724/41c6c848-50df-4f1c-876c-565401ada0b0)
+
+### PersonValidator
+کافیه برای requiredName تست بنویسیم:
+![image](https://github.com/hamidrezayaghobi/SEL_week7/assets/59170724/2d1a9cf0-4ee6-41f4-96b2-805939da5195)
+![image](https://github.com/hamidrezayaghobi/SEL_week7/assets/59170724/147a0d6b-8636-43c5-8ad2-93482d2f7239)
 
