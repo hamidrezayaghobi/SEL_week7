@@ -2,6 +2,7 @@ package com.unittest.codecoverage.service;
 
 import static org.assertj.core.api.Assertions.assertThatThrownBy;
 import static org.mockito.ArgumentMatchers.any;
+import static org.mockito.Mockito.verify;
 import static org.mockito.Mockito.when;
 
 import java.util.List;
@@ -95,6 +96,16 @@ public class PersonServiceTest {
 			.isInstanceOf(PersonException.class)
 			.hasFieldOrPropertyWithValue("errors", expectedErrors)
 			.hasMessage(expectedMessage);
+	}
+
+	@Test
+	public void testUpdate_shouldUpdatePersonWithSuccessWhenAllPersonsInfoIsFilled() {
+		Person person = new Person();
+		person.setName("Haj Hamid");
+		person.setAge(23);
+		person.setGender(Gender.M);
+		service.update(person);
+		verify(repository).update(person);
 	}
 
 }
