@@ -8,7 +8,7 @@ public class Footpassenger {
 	private boolean lookedToTheLeft;
 	private boolean crossedTheRoad;
 	
-	public boolean crossedTheCrosswalk() {
+	    public boolean crossedTheCrosswalk() {
 		return crossedTheCrosswalk;
 	}
 	public void setCrossedTheCrosswalk(boolean crossedTheCrosswalk) {
