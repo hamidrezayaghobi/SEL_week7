@@ -40,3 +40,23 @@
 ![image](https://github.com/hamidrezayaghobi/SEL_week7/assets/59170724/2d1a9cf0-4ee6-41f4-96b2-805939da5195)
 ![image](https://github.com/hamidrezayaghobi/SEL_week7/assets/59170724/147a0d6b-8636-43c5-8ad2-93482d2f7239)
 
+### PersonServiceImp
+موارد زیر نیاز به نوشتن تست دارد:
+![image](https://github.com/hamidrezayaghobi/SEL_week7/assets/59170724/3b92a97c-15b7-4a2f-b709-0e9fb1fe23f1)
+حال به عنوان مثال، آپدیت کردن رو اوکی میکنیم:
+![Screenshot from 2024-01-13 19-49-23](https://github.com/hamidrezayaghobi/SEL_week7/assets/59170724/e9c71d1d-7135-4d81-aac4-50e8f92ae14e)
+![image](https://github.com/hamidrezayaghobi/SEL_week7/assets/59170724/3b0f905d-a7ad-4e47-89fe-79eb3a372210)
+
+### PersonRepository
+![image](https://github.com/hamidrezayaghobi/SEL_week7/assets/59170724/7604ec44-cb53-4f57-8e6a-48274a7d0175)
+![Screenshot from 2024-01-13 19-32-02](https://github.com/hamidrezayaghobi/SEL_week7/assets/59170724/e6301155-3186-42f2-837d-bc682c4f9b67)
+
+### نتیجه کلی
+![image](https://github.com/hamidrezayaghobi/SEL_week7/assets/59170724/e1e96750-a6e6-4ab6-a560-db1844106a1d)
+
+
+
+
+
+
+
